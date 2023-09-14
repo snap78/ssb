@@ -1,0 +1,20 @@
+/* Apply yellow background to the entire webpage */
+body {
+    background-color: yellow;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Style the button with a red background */
+#clickButton {
+    background-color: red;
+    color: white;
+    padding: 20px 40px; /* Customize button size as needed */
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px; /* Add rounded corners to the button */
+}
