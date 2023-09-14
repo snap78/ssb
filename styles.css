@@ -12,9 +12,9 @@ body {
 #clickButton {
     background-color: red;
     color: white;
-    padding: 20px 40px; /* Customize button size as needed */
-    font-size: 18px;
+    padding: 80px 90px; /* Customize button size as needed */
+    font-size: 60px;
     border: none;
     cursor: pointer;
-    border-radius: 10px; /* Add rounded corners to the button */
+    border-radius: 20px; /* Add rounded corners to the button */
 }
